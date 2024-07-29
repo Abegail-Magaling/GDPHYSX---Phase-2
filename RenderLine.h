@@ -30,5 +30,7 @@ public:
 	void Update(physics::MyVector p1, physics::MyVector p2, glm::mat4 projectionMatrix, glm::mat4 viewMatrix);
 
 	void Draw();
+
+	glm::vec4 normalizeByMaxComponent(const glm::vec4& vec);
 };
 

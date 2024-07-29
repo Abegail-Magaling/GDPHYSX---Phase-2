@@ -43,7 +43,7 @@ namespace physics{
 
 		public:
 			float radius;
-			float restitution = 1.f;
+			float restitution = 0.9f;
 
 			bool GetAffectedByForce();
 			void SetAffectedByForce(bool force) { this->affectedByForce = force; };
