@@ -1,0 +1,49 @@
+﻿  bungee.cpp
+  AnchoredSpring.cpp
+  MyCamera.cpp
+  OrthoCamera.cpp
+  Chain.cpp
+  ContactResolver.cpp
+  GravityForceGenerator.cpp
+  ForceRegistry.cpp
+  ForceGenerator.cpp
+  GameObject.cpp
+D:\gdphys\GDPHYS\GameObject.cpp(47,60): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\gdphys\GDPHYS\GameObject.cpp(106,72): warning C4312: 'type cast': conversion from 'GLuint' to 'void *' of greater size
+D:\gdphys\GDPHYS\GameObject.cpp(109,72): warning C4312: 'type cast': conversion from 'GLuint' to 'void *' of greater size
+  main.cpp
+D:\gdphys\GDPHYS\main.cpp(47,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\gdphys\GDPHYS\main.cpp(47,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\gdphys\GDPHYS\main.cpp(106,60): warning C4305: 'argument': truncation from 'double' to 'float'
+  Rod.cpp
+  MyVector.cpp
+  PhysicsParticle.cpp
+D:\gdphys\GDPHYS\P6\PhysicsParticle.cpp(57,43): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+D:\gdphys\GDPHYS\P6\PhysicsParticle.cpp(57,43): warning C4244:         with
+D:\gdphys\GDPHYS\P6\PhysicsParticle.cpp(57,43): warning C4244:         [
+D:\gdphys\GDPHYS\P6\PhysicsParticle.cpp(57,43): warning C4244:             _Ty=int
+D:\gdphys\GDPHYS\P6\PhysicsParticle.cpp(57,43): warning C4244:         ]
+D:\gdphys\GDPHYS\P6\PhysicsParticle.cpp(57,38): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+D:\gdphys\GDPHYS\P6\PhysicsParticle.cpp(57,38): warning C4244:         with
+D:\gdphys\GDPHYS\P6\PhysicsParticle.cpp(57,38): warning C4244:         [
+D:\gdphys\GDPHYS\P6\PhysicsParticle.cpp(57,38): warning C4244:             _Ty=int
+D:\gdphys\GDPHYS\P6\PhysicsParticle.cpp(57,38): warning C4244:         ]
+D:\gdphys\GDPHYS\P6\PhysicsParticle.cpp(61,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PhysicsWorld.cpp
+  RenderParticle.cpp
+  PerspectiveCamera.cpp
+  ParticleContact.cpp
+  ParticleLink.cpp
+  RandomGen.cpp
+D:\gdphys\GDPHYS\Randomization\RandomGen.cpp(35,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\gdphys\GDPHYS\Randomization\RandomGen.cpp(48,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\gdphys\GDPHYS\Randomization\RandomGen.cpp(61,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Compiling...
+  RenderLine.cpp
+  Shader.cpp
+  glad.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2354 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GDPHYS_Assignment#1.vcxproj -> D:\gdphys\GDPHYS\x64\Release\GDPHYS_Assignment#1.exe
